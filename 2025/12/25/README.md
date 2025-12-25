@@ -1,3 +1,10 @@
+---
+Created at: 2025-12-25 11:34:39
+tags:
+  - til
+  - learning
+---
+
 # 2025年12月25日の学習記録
 
 ## 今日学んだこと
@@ -8,16 +15,23 @@
 - ObsidianのDairy/Outputs/TIL/をGitリポジトリとして管理する構成を決定
 - Cursorから学習記録を管理するワークフローを設計
 
+### Cursorルールの作成
+
+- `/til` コマンドで学習記録を自動作成・GitHubにプッシュするルールを作成
+- Obsidianのfrontmatterプロパティ（Created at、tags）を自動挿入する機能を実装
+- 今日から実際に運用開始
+
 ## 設計のポイント
 
 - 既存のObsidian Diaryはそのまま維持
 - TILは公開リポジトリとしてGitHubで管理
-- Cursorのagent/skillsを活用して学習記録を自動化予定
+- Cursorのagent/skillsを活用して学習記録を自動化
+- Obsidianで見る際にプロパティが正しく表示されるようにfrontmatterを追加
 
 ## 次のアクション
 
-- 2026年1月1日から本格運用開始
-- Cursor用のルール/スキルを作成
+- 2026年1月1日から本格運用開始（今日からテスト運用）
+- `/til` コマンドの動作確認と改善
 
 ## 参考資料
 
