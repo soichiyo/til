@@ -43,11 +43,48 @@ tags:
 - コンテキストタグ（#ctx-meeting、#ctx-adminなど）による分類
 - 日次タスクの優先順位付けとレビュー
 
+### Screenpipeパイプラインの最適化
+
+- ScreenpipeパイプラインとClaude統合のトラブルシューティング
+- ログディレクトリ作成とセットアップ強化の問題解決
+- チーム（Daichi、Hikaru）との協働によるコードデバッグとサーバー再起動
+- トークン管理とパイプライン再起動の成功
+
+### AI駆動開発ワークフローの探索
+
+- SkillsとClaude Code GitHub Actionsを使用したAI駆動開発の検討
+- テスト駆動開発（TDD）とAI駆動開発のワークフロー探索
+- AnthropicエンジニアやVercel CEOとの実装に関する議論
+- 自然言語によるワークフロー作成と各種開発ツールとの統合機能の確認
+
+### OSS SkillPortプロジェクトの検討
+
+- Agent Skillsを管理するOSS「SkillPort」の開発と課題の検討
+- プロジェクトの強み、潜在的な問題、機能の議論
+- Claude以外のエージェントでも操作性と使いやすさを向上させる目標
+- クロスエージェント対応の設計思想
+
+### Obsidian Thinoプラグインの実装
+
+- Obsidian Thinoプラグインの設定による効率的なデジタルノートテイキング
+- デフォルト統合設定のカスタマイズとテーマ設定
+- 日次ノートの自動化機能の確立
+- アイデアの記録と管理の効率化
+- 他のObsidianプラグインとの高度な統合の可能性
+
+### ObsidianとRaycastの統合最適化
+
+- Advanced URIやThinoなどのプラグインによるObsidianの設定強化
+- Raycast経由のワークフロー統合によるシームレスなノートテイキングとタスク管理
+- 日次ノートの更新による効率化と手動入力の削減
+
 ## 参考資料
 
 - [MCP BigQuery Server](https://github.com/ergut/mcp-bigquery-server)
 - [Zettelkasten Method](https://zettelkasten.de/)
 - [Obsidian Documentation](https://obsidian.md/)
+- [Obsidian Thino Plugin](https://github.com/kinmury/obsidian-thino)
+- [Raycast](https://www.raycast.com/)
 
 ## メモ
 
@@ -55,3 +92,7 @@ tags:
 - Zettelkastenメソッドは知識管理とコンテンツ作成の両方に有効
 - Twitterコンテンツの自動取得と構造化は、Literature Note作成の効率化に貢献
 - データ分析では、複数の指標（CPA、CPC、ROAS）を組み合わせて判断することが重要
+- Screenpipeパイプラインの最適化では、チーム協働と段階的な問題解決が重要
+- AI駆動開発ワークフローは、自然言語による操作と既存ツールとの統合が鍵
+- OSS SkillPortのようなクロスエージェント対応ツールは、エコシステム全体の価値を高める
+- Obsidian ThinoとRaycastの統合により、ノートテイキングとタスク管理のワークフローが大幅に効率化される
