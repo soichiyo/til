@@ -17,3 +17,5 @@ Thumbs.db
 
 # iCloud
 .icloud
+
+.cursor/
