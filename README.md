@@ -3,6 +3,8 @@
 soichiyoの日々の学習記録をGitHubで管理するリポジトリです。  
 気が向いたときに、学んだことをメモしていきます。
 
+Public owner / Domain / Worker boundary: [ledger contract](docs/owner-domain-worker-ledger-contract.md)
+
 ## このリポジトリについて
 
 TIL（Today I Learned：今日学んだこと）は、世界中の開発者の間で10年以上前から行われている取り組みです。
